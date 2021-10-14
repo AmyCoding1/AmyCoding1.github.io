@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-23:29:46	392/392	---MCZ	404	error ('Not%20Found')	text/html	date:Sat,%2009%20Oct%202021%2021:29:46%20GMT	https://demo.goodlayers.com/robots.txt		(from )
-23:29:47	73420/73420	---MCZ	200	added ('OK')	text/html	date:Mon,%2027%20Sep%202021%2000:19:45%20GMT	https://demo.goodlayers.com/onepagepro/corporate/	C:/Users/user/Desktop/kot/demo.goodlayers.com/onepagepro/corporate/index.html	(from )
-23:29:47	42/42	---MC-	405	error ('Method%20Not%20Allowed')	text/plain	date:Sat,%2009%20Oct%202021%2021:29:47%20GMT	https://demo.goodlayers.com/onepagepro/corporate/xmlrpc.php	C:/Users/user/Desktop/kot/demo.goodlayers.com/onepagepro/corporate/xmlrpc.php	(from https://demo.goodlayers.com/onepagepro/corporate/)
